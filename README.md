@@ -11,3 +11,4 @@ This demo was made purely to showcase the gameplay of the upcoming video game.
 To play, simple download the files above and run the .exe.
 
 This version can only be played on a Mac computer. 
+To play the Windows version, use the following link: https://github.com/BBChris-Griffin/ProjectHope.git
